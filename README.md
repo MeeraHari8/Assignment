@@ -1,2 +1,2 @@
-# Assignment1
+# Assignment
 SOLVING SOME BASIC PYTHON QUESTIONS.
